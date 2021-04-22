@@ -29,3 +29,5 @@ it continues like this...
 There are 6 users and 3 different banks defined in the system. When server.cpp is run, user information is printed on the screen.
 
 Warning! If the number of users will be changed (adding a new user or deleting a user), necessary changes should be made on the "int userNumber" and "string kullanicilar[]" in the server.cpp file.
+
+Visual studio format --> https://drive.google.com/file/d/12ymJH2dZgOnMTZfxyEWmL6TfD2D_1ySu/view?usp=sharing
