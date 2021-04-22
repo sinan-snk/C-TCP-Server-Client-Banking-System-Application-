@@ -5,15 +5,25 @@ Two console applications will be developed as TCP Server and TCP Client, and tra
 Kullanicilar.txt Format :
 
 Line 1 ->User1_Username
+
 Line 2 ->User1_Password
+
 Line 3 ->User1_BankName
+
 Line 4 ->User1_AccountNumber
+
 Line 5 ->User1_AccountBalance
+
 Line 6 ->User2_Username
+
 Line 7 ->User2_Password
+
 Line 8 ->User2_BankName
+
 Line 9 ->User2_AccountNumber
+
 Line 10 ->User2_AccountBalance
+
 it continues like this...
 
 There are 6 users and 3 different banks defined in the system. When server.cpp is run, user information is printed on the screen.
